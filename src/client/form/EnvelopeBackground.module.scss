@@ -1,0 +1,33 @@
+@import '../variables.scss';
+
+.root {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+
+.upperPart {
+  width: 700px;
+  height: 700px;
+  background: $pink;
+  border-radius: 100px;
+  transform: rotate(45deg);
+  z-index: 2;
+  position: absolute;
+  top: -600px;
+  left: 135px;
+  box-shadow: 1px 1px 35px darken($green-dark, 10);
+}
+
+.lowerPart {
+  width: 700px;
+  height: 700px;
+  background: $green-light;
+  border-radius: 50px;
+  transform: rotate(45deg);
+  z-index: 1;
+  position: absolute;
+  top: 100px;
+  opacity: 0.5;
+}
