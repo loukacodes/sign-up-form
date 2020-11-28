@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/trangtmtran/sign-up-form/static/css/main.9d7fbd65.chunk.css",
-    "main.js": "/trangtmtran/sign-up-form/static/js/main.da175ee8.chunk.js",
-    "main.js.map": "/trangtmtran/sign-up-form/static/js/main.da175ee8.chunk.js.map",
-    "runtime-main.js": "/trangtmtran/sign-up-form/static/js/runtime-main.b3d0b088.js",
-    "runtime-main.js.map": "/trangtmtran/sign-up-form/static/js/runtime-main.b3d0b088.js.map",
-    "static/js/2.ab9c7512.chunk.js": "/trangtmtran/sign-up-form/static/js/2.ab9c7512.chunk.js",
-    "static/js/2.ab9c7512.chunk.js.map": "/trangtmtran/sign-up-form/static/js/2.ab9c7512.chunk.js.map",
-    "index.html": "/trangtmtran/sign-up-form/index.html",
-    "static/css/main.9d7fbd65.chunk.css.map": "/trangtmtran/sign-up-form/static/css/main.9d7fbd65.chunk.css.map",
-    "static/js/2.ab9c7512.chunk.js.LICENSE.txt": "/trangtmtran/sign-up-form/static/js/2.ab9c7512.chunk.js.LICENSE.txt"
+    "main.css": "/sign-up-form/static/css/main.9d7fbd65.chunk.css",
+    "main.js": "/sign-up-form/static/js/main.da175ee8.chunk.js",
+    "main.js.map": "/sign-up-form/static/js/main.da175ee8.chunk.js.map",
+    "runtime-main.js": "/sign-up-form/static/js/runtime-main.58d9765d.js",
+    "runtime-main.js.map": "/sign-up-form/static/js/runtime-main.58d9765d.js.map",
+    "static/js/2.ab9c7512.chunk.js": "/sign-up-form/static/js/2.ab9c7512.chunk.js",
+    "static/js/2.ab9c7512.chunk.js.map": "/sign-up-form/static/js/2.ab9c7512.chunk.js.map",
+    "index.html": "/sign-up-form/index.html",
+    "static/css/main.9d7fbd65.chunk.css.map": "/sign-up-form/static/css/main.9d7fbd65.chunk.css.map",
+    "static/js/2.ab9c7512.chunk.js.LICENSE.txt": "/sign-up-form/static/js/2.ab9c7512.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b3d0b088.js",
+    "static/js/runtime-main.58d9765d.js",
     "static/js/2.ab9c7512.chunk.js",
     "static/css/main.9d7fbd65.chunk.css",
     "static/js/main.da175ee8.chunk.js"
