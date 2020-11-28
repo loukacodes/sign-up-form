@@ -1,5 +1,7 @@
 # Sign-up form
 
+[Check it out!](https://trangtmtran.github.io/sign-up-form/)
+
 ## Development setup
 
 - Install [nodejs](https://nodejs.org/) (Recommended version: 12.14.0)
