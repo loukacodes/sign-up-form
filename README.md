@@ -1,4 +1,4 @@
-# APP TEMPLATE
+# Sign-up form
 
 ## Development setup
 
